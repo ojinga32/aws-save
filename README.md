@@ -6,3 +6,5 @@
 budget(예산) 설정 - 100원이라도 비용이 발생시 이메일로 통지
 
 #다음할 것 - cloud watch 설정
+<img width="1652" height="964" alt="image" src="https://github.com/user-attachments/assets/028dc73a-c011-4bc3-9d02-f8470b51e478" />
+cloudwatch-billing alert 설정 완료
