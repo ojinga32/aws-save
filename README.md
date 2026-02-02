@@ -21,4 +21,9 @@
 <img width="1898" height="938" alt="image" src="https://github.com/user-attachments/assets/eb0477bf-1e38-4ad5-8fb2-78f792ea3ed2" />
 
 #7. aws elastic ip 할당받기
-![Uploading image.png…]()
+<img width="1877" height="982" alt="image" src="https://github.com/user-attachments/assets/1c2dc815-8888-41a9-8d54-d4ed93419de8" />
+
+#8. nginx + spring boot 연결 성공 
+<img width="1885" height="997" alt="image" src="https://github.com/user-attachments/assets/af433568-d8a0-43ed-a0c9-b0681eb4d206" />
+
+#9. https 연결 해주기
