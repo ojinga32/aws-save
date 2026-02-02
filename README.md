@@ -11,5 +11,8 @@
 #3. EC2인스턴스 생성(java, mysql, redis, nginx생성 - script는 보안이므로 메모장에 저장)
 <img width="1884" height="1172" alt="image" src="https://github.com/user-attachments/assets/6a1313fa-e8c7-4b2f-9ead-778c59c29d16" />
 
-# 4. ssh 접속 후 docker, docker compose 다운로드 및 docker로 mysql, redis 띄워놓기 
+#4. ssh 접속 후 docker, docker compose 다운로드 및 docker로 mysql, redis 띄워놓기 
+<img width="1475" height="777" alt="image" src="https://github.com/user-attachments/assets/1ff7b281-d013-4694-a8da-97b4d8b51053" />
+
+#5. 자바 및 nginx 다운 
 ![Uploading image.png…]()
