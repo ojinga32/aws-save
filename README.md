@@ -14,5 +14,11 @@
 #4. ssh 접속 후 docker, docker compose 다운로드 및 docker로 mysql, redis 띄워놓기 
 <img width="1475" height="777" alt="image" src="https://github.com/user-attachments/assets/1ff7b281-d013-4694-a8da-97b4d8b51053" />
 
-#5. 자바 및 nginx 다운 
+#5. 자바 및 서버 실행 다운 
+<img width="1451" height="728" alt="image" src="https://github.com/user-attachments/assets/706a3fbd-6969-44cf-bfd3-e9448d4950ab" />
+
+#6. nginx다운 
+<img width="1898" height="938" alt="image" src="https://github.com/user-attachments/assets/eb0477bf-1e38-4ad5-8fb2-78f792ea3ed2" />
+
+#7. aws elastic ip 할당받기
 ![Uploading image.png…]()
