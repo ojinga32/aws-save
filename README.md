@@ -28,3 +28,6 @@
 #9. AWS Certificate Manager생성 for SSL
 <img width="1897" height="986" alt="image" src="https://github.com/user-attachments/assets/2312308d-27f0-4b52-b201-5376cab5465c" />
 
+#10. AWS Route53설정
+<img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/d8da603b-e170-4096-9e69-6999333eb40f" />
+
