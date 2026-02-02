@@ -1,4 +1,4 @@
-# aws-save
+<img width="1903" height="905" alt="image" src="https://github.com/user-attachments/assets/f3df73b2-7f9b-48cd-b1a8-56e9990a7803" /># aws-save
 내가 사용하고 있는 aws에 대해 모든 것을 기록하는 곳
 
 #1. Budget 설정 - 100원이라도 비용이 발생 시 이메일로 통지(월 별)
@@ -22,7 +22,9 @@
 
 #7. aws elastic ip 할당받기
 
-#8. nginx + spring boot 연결 성공 
+#8. nginx + spring boot 연결 성공 (아래 작업 = https 연결 - ALB + ACM)
 <img width="1885" height="997" alt="image" src="https://github.com/user-attachments/assets/af433568-d8a0-43ed-a0c9-b0681eb4d206" />
 
-#9. https 연결 해주기
+#9. AWS Certificate Manager생성 for SSL
+<img width="1897" height="986" alt="image" src="https://github.com/user-attachments/assets/2312308d-27f0-4b52-b201-5376cab5465c" />
+
