@@ -1,4 +1,4 @@
-# aws-save
+<img width="1459" height="747" alt="image" src="https://github.com/user-attachments/assets/12072c0a-557e-48aa-8d1e-b40fbd382967" /># aws-save
 내가 사용하고 있는 aws에 대해 모든 것을 기록하는 곳
 
 #1. Budget 설정 - 100원이라도 비용이 발생 시 이메일로 통지(월 별)
@@ -10,3 +10,6 @@
 
 #3. EC2인스턴스 생성(java, mysql, redis, nginx생성 - script는 보안이므로 메모장에 저장)
 <img width="1884" height="1172" alt="image" src="https://github.com/user-attachments/assets/6a1313fa-e8c7-4b2f-9ead-778c59c29d16" />
+
+# 4. ssh 접속 후 docker, docker compose 다운로드 및 docker로 mysql, redis 띄워놓기 
+<img width="1459" height="747" alt="image" src="https://github.com/user-attachments/assets/4a5d39d5-1d86-417e-8cad-079718373191" />
