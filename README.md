@@ -12,3 +12,4 @@
 <img width="1884" height="1172" alt="image" src="https://github.com/user-attachments/assets/6a1313fa-e8c7-4b2f-9ead-778c59c29d16" />
 
 # 4. ssh 접속 후 docker, docker compose 다운로드 및 docker로 mysql, redis 띄워놓기 
+![Uploading image.png…]()
