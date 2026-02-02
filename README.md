@@ -1,4 +1,4 @@
-<img width="1459" height="747" alt="image" src="https://github.com/user-attachments/assets/12072c0a-557e-48aa-8d1e-b40fbd382967" /># aws-save
+# aws-save
 내가 사용하고 있는 aws에 대해 모든 것을 기록하는 곳
 
 #1. Budget 설정 - 100원이라도 비용이 발생 시 이메일로 통지(월 별)
