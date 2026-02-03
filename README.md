@@ -34,5 +34,8 @@
 #11. AWS Route53설정
 <img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/d8da603b-e170-4096-9e69-6999333eb40f" />
 
+#12. Application Load Balancer 생성
+<img width="1895" height="895" alt="image" src="https://github.com/user-attachments/assets/e7d881c9-e061-4b26-8669-4fa068745480" />
+
 #12. Application Load Balancer 연결 성공 
 <img width="1901" height="947" alt="image" src="https://github.com/user-attachments/assets/646c506d-55cb-4bbe-b67b-87eb1d2673c8" />
