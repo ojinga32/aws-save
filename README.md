@@ -28,15 +28,18 @@
 #9. 도메인 구매
 <img width="1542" height="934" alt="image" src="https://github.com/user-attachments/assets/39a6791c-ce0e-4839-919d-30c76ec627be" />
 
-#10. AWS Certificate Manager생성 for SSL
-<img width="1897" height="986" alt="image" src="https://github.com/user-attachments/assets/2312308d-27f0-4b52-b201-5376cab5465c" />
+#10. AWS Route 53 생성
+<img width="1884" height="844" alt="image" src="https://github.com/user-attachments/assets/bfb37a0f-d872-46dd-b550-8ddd480a4694" />
 
-#11. AWS Route53설정
-<img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/d8da603b-e170-4096-9e69-6999333eb40f" />
+#11. AWS Route 53 record 생성
+<img width="1346" height="488" alt="image" src="https://github.com/user-attachments/assets/16421c16-e849-4042-9184-596193366f2b" />
 
-#12. Application Load Balancer 생성
+#12. AWS ACM 생성 및 AWS Route 53 연결
+<img width="1604" height="705" alt="image" src="https://github.com/user-attachments/assets/46e43710-5896-4497-87e2-b3f3d39bf8c7" />
+
+#13. Application Load Balancer 생성
 <img width="1895" height="895" alt="image" src="https://github.com/user-attachments/assets/e7d881c9-e061-4b26-8669-4fa068745480" />
 
-#12. Application Load Balancer 연결 성공 
+#14. Application Load Balancer 연결 성공 
 <img width="1899" height="866" alt="image" src="https://github.com/user-attachments/assets/3f015482-5d0b-47d8-aa1b-292617abd93f" />
 
