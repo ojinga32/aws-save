@@ -38,4 +38,5 @@
 <img width="1895" height="895" alt="image" src="https://github.com/user-attachments/assets/e7d881c9-e061-4b26-8669-4fa068745480" />
 
 #12. Application Load Balancer 연결 성공 
-<img width="1901" height="947" alt="image" src="https://github.com/user-attachments/assets/646c506d-55cb-4bbe-b67b-87eb1d2673c8" />
+<img width="1899" height="866" alt="image" src="https://github.com/user-attachments/assets/3f015482-5d0b-47d8-aa1b-292617abd93f" />
+
