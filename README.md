@@ -25,9 +25,12 @@
 #8. nginx + spring boot 연결 성공 (아래 작업 = https 연결 - ALB + ACM)
 <img width="1885" height="997" alt="image" src="https://github.com/user-attachments/assets/af433568-d8a0-43ed-a0c9-b0681eb4d206" />
 
-#9. AWS Certificate Manager생성 for SSL
+#9. 도메인 구매
+<img width="1542" height="934" alt="image" src="https://github.com/user-attachments/assets/39a6791c-ce0e-4839-919d-30c76ec627be" />
+
+#10. AWS Certificate Manager생성 for SSL
 <img width="1897" height="986" alt="image" src="https://github.com/user-attachments/assets/2312308d-27f0-4b52-b201-5376cab5465c" />
 
-#10. AWS Route53설정
+#11. AWS Route53설정
 <img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/d8da603b-e170-4096-9e69-6999333eb40f" />
 
