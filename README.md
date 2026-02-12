@@ -17,6 +17,7 @@
 
 ### 현재 구조 요약
 
+```
 Internet
 ↓
 Route 53 (Domain)
@@ -26,7 +27,7 @@ Application Load Balancer (HTTPS)
 EC2 (Nginx :80)
 ↓
 Spring Boot (:8080)
-
+```
 
 ---
 
